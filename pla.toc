@@ -1,0 +1,9 @@
+\select@language {catalan}
+\contentsline {section}{\numberline {1}Resum executiu}{2}
+\contentsline {section}{\numberline {2}Proposta de valor}{3}
+\contentsline {section}{\numberline {3}Servei}{4}
+\contentsline {section}{\numberline {4}Mercat}{5}
+\contentsline {section}{\numberline {5}Pla de venda}{6}
+\contentsline {section}{\numberline {6}Mileston and metrics}{7}
+\contentsline {section}{\numberline {7}Equip de gesti\IeC {\'o}}{8}
+\contentsline {section}{\numberline {8}Pla financer}{9}
