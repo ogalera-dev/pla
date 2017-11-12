@@ -2,17 +2,22 @@
 \contentsline {section}{\numberline {1}Resum executiu}{2}
 \contentsline {section}{\numberline {2}Proposta de valor}{3}
 \contentsline {subsection}{\numberline {2.1}Per qu\IeC {\`e} \IeC {\'e}s important comptar amb una certificaci\IeC {\'o} IT alhora de buscar feina?}{5}
-\contentsline {subsection}{\numberline {2.2}Model canvas}{5}
-\contentsline {section}{\numberline {3}Servei}{6}
-\contentsline {section}{\numberline {4}Mercat}{7}
-\contentsline {subsection}{\numberline {4.1}Mercat disponible total (\textit {TAM})}{7}
-\contentsline {subsubsection}{\numberline {4.1.1}Persones f\IeC {\'\i }siques}{7}
-\contentsline {subsubsection}{\numberline {4.1.2}Empreses de preparaci\IeC {\'o} per a certificacions IT}{7}
-\contentsline {subsubsection}{\numberline {4.1.3}Empreses amb departament de noves tecnologies}{8}
-\contentsline {subsection}{\numberline {4.2}Mercat segmentat disponible (\textit {SAM})}{8}
-\contentsline {subsection}{\numberline {4.3}Mercat compartit disponible (\textit {SOM})}{8}
-\contentsline {section}{\numberline {5}Compet\IeC {\`e}ncia}{10}
-\contentsline {section}{\numberline {6}Pla de venda}{12}
-\contentsline {section}{\numberline {7}Mileston and metrics}{13}
-\contentsline {section}{\numberline {8}Equip de gesti\IeC {\'o}}{14}
-\contentsline {section}{\numberline {9}Pla financer}{15}
+\contentsline {subsubsection}{\numberline {2.1.1}Beneficis de les certificacions IT pels professionals}{5}
+\contentsline {subsubsection}{\numberline {2.1.2}Beneficis de les certificacions IT per les empreses}{5}
+\contentsline {subsection}{\numberline {2.2}Model canvas}{6}
+\contentsline {section}{\numberline {3}Servei}{8}
+\contentsline {subsection}{\numberline {3.1}Propietats del servei}{8}
+\contentsline {subsection}{\numberline {3.2}Canals per arribar als clients}{8}
+\contentsline {subsection}{\numberline {3.3}Fidelitzar als clients}{9}
+\contentsline {section}{\numberline {4}Mercat}{11}
+\contentsline {subsection}{\numberline {4.1}Mercat disponible total (\textit {TAM})}{11}
+\contentsline {subsubsection}{\numberline {4.1.1}Persones f\IeC {\'\i }siques}{11}
+\contentsline {subsubsection}{\numberline {4.1.2}Empreses de preparaci\IeC {\'o} per a certificacions IT}{11}
+\contentsline {subsubsection}{\numberline {4.1.3}Empreses amb departament de noves tecnologies}{12}
+\contentsline {subsection}{\numberline {4.2}Mercat segmentat disponible (\textit {SAM})}{13}
+\contentsline {subsection}{\numberline {4.3}Mercat compartit disponible (\textit {SOM})}{13}
+\contentsline {section}{\numberline {5}Compet\IeC {\`e}ncia}{15}
+\contentsline {section}{\numberline {6}Pla de venda}{17}
+\contentsline {section}{\numberline {7}Mileston and metrics}{18}
+\contentsline {section}{\numberline {8}Equip de gesti\IeC {\'o}}{19}
+\contentsline {section}{\numberline {9}Pla financer}{20}
